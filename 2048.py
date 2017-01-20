@@ -93,4 +93,6 @@ while not (f==tilt_field(f,"w")==tilt_field(f,"a")
         print("you win")
         sys.exit(1)
 pprint(f)
-print("you lose")
+print("you lose"te
+miscellaneous
+)
